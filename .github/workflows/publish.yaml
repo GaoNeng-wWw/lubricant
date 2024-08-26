@@ -16,4 +16,4 @@ jobs:
           profile: minimal
           override: true
       - name: Publish
-        run: cargo publish --token ${{secrets.CARGO_TOKEN}}
+        run: cargo doc --no-deps && cargo publish --token ${{secrets.CARGO_TOKEN}}

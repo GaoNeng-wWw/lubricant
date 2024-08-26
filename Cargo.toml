@@ -1,0 +1,19 @@
+[package]
+name = "lubricant"
+version = "0.1.0"
+edition = "2021"
+authors = ["GaoNengwWw gaonenggg@outlook.com"]
+description = "Rust toolset"
+license = "MIT"
+license-file = "LICENSE"
+documentation = "https://docs.rs/lubricant"
+homepage = ""
+
+[dependencies]
+
+[profile.dev]
+opt-level = 0
+[profile.release]
+opt-level = 3
+[profile.test]
+opt-level = 0

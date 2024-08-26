@@ -7,7 +7,8 @@ description = "Rust toolset"
 license = "MIT"
 license-file = "LICENSE"
 documentation = "https://docs.rs/lubricant"
-homepage = ""
+homepage = "https://github.com/GaoNeng-wWw/lubricant.git"
+exclude = [".vscode"]
 
 [dependencies]
 

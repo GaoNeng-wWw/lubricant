@@ -22,7 +22,7 @@ fn main(){
 
 ## Contribution
 
-Welcome PR, but before submit pull request, Please read [Contributing Guidelines]https://github.com/GaoNeng-wWw/lubricant/.github/blob/main/CONTRIBUTING.md)
+Welcome PR, but before submit pull request, Please read [Contributing Guidelines]https://github.com/GaoNeng-wWw/lubricant/blob/main/CONTRIBUTING.md)
 
 ## LICENSE
 

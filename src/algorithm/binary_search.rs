@@ -1,4 +1,4 @@
-/// Binary saech
+/// Binary search
 /// Is the binary search element `item` in `arr`. If exists will return Some(index)
 /// ```
 /// use lubricant::algorithm::binary_search;
